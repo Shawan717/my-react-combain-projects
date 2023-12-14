@@ -1,0 +1,13 @@
+.bottle{
+    border: 2px solid skyblue;
+    padding: 10px;
+    border-radius: 20px;
+   
+}
+.bottle img{
+    width: 200px;
+}
+.btn{
+    background-color: antiquewhite;
+    color: rgb(0, 0, 0);
+}
